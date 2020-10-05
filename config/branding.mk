@@ -2,8 +2,8 @@
 CUSTOM_BUILD_TYPE ?= UNOFFICIAL
 
 # PixelPlusUI Props
-PPUI_BASE_VERSION = 2.0
-PPUI_CODENAME := Reborn
+PPUI_BASE_VERSION = 2.2
+PPUI_CODENAME := Eclipse
 
 CUSTOM_DATE_YEAR := $(shell date -u +%Y)
 CUSTOM_DATE_MONTH := $(shell date -u +%m)
